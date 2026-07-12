@@ -1,0 +1,6 @@
+{
+  "name": "Yebuna",
+  "description": "Yebuna.com - Professional Portfolio & Custom Booking Platform for Creative Freelancers with Real-time AI Support",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
